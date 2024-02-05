@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm Peyman, I’m currently learning Dart.
 <!--
 **peymansf2000/peymansf2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
