@@ -168,10 +168,10 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
 
 <div align="center">
   <a href="https://github.com/peymansf2000/">
-    <img src="https://github-readme-stats.vercel.app/api?username=peymansf2000&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Juletopi-stats" title="Peyman's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=peymansf2000&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Peyman's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Peyman-stats" title="Peyman's GitHub Stats">
   </a>
   <a href="https://github.com/peymansf2000/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymansf2000&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Peyman's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="PeymaniTopLangs-stats" title="Juletopi's Coding Language Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymansf2000&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Peyman's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="PeymaniTopLangs-stats" title="Peyman's Coding Language Stats">
   </a>
 </div>
 
@@ -183,7 +183,7 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
 
 <div align="center">
   <a href="https://github.com/peymansf2000/">
-    <img src="https://streak-stats.demolab.com/?user=peymansf2000&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="JuletopiStreak-stats" title="Juletopi's Streak Stats">
+    <img src="https://streak-stats.demolab.com/?user=peymansf2000&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="PeymanStreak-stats" title="Peyman's Streak Stats">
   </a>
 </div>
 
