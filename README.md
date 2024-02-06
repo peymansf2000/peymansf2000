@@ -15,7 +15,7 @@
 
 <div align="left">
  
-I'm a 20-year-old enthusiast currently diving deep into the world of app development with a particular focus on Flutter. I'm passionate about learning new technologies and expanding my skill set to create impactful and innovative solutions.
+I'm a 23-year-old enthusiast currently diving deep into the world of app development with a particular focus on Flutter. I'm passionate about learning new technologies and expanding my skill set to create impactful and innovative solutions.
 
 
   **• If you want to contact me:**
