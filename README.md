@@ -77,7 +77,7 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
   </a>
 </div>
 
-### What I'm Working On
+### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; What I'm Working On
 - 📱 Currently enrolled in the Flutter course at [**7Learn Academy**](https://7learn.com/course/flutter-expert).
 - 📚 Developing an open-source weather forecast application using Flutter. Check it out on [GitHub](https://github.com/peymansf2000/skylite)!
 - 🇩🇪 Building a language learning app specifically tailored for learning German.
@@ -109,48 +109,46 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
 
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
 
+
 [![Peyman's Spotify Playing](https://novatorem-five-steel-89.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
+
+
 
 <div align="center">
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api>
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
   </a>
 </div>
-### <a href="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif"><img align="center" src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif"/></a>&nbsp; Tools I use:
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="43" title="Jupyter Notebook">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="Github">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="48" title="PyCharm">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="48" title="Android studio">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
-</div>
 
-  
+### <a href="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif"><img align="center" src="https://media.giphy.com/media/UuYtvq24KIj6I38nQ1/giphy.gif" width="36" alt="ToolsUsed-gif"/></a>&nbsp; Tools I use:
+
+  <div align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="43" title="Jupyter Notebook">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="Github">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="48" title="PyCharm">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="48" title="Android studio">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
+  </div>
 
 ### <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzYzk0ODBlYWRlYjliZGEwNDNhZDc3YTY1NzEyMzAyYmMxOTBkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LmrjyYSZE60bHpn2Bg/giphy.gif" width="36" alt="CodeSkills-gif"/></a>&nbsp; Main skills:
-### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; Studying in this moment:
-
-
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="43" title="Jupyter Notebook">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" width="48" title="Github">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="48" title="PyCharm">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="48" title="Android studio">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48" title="Dart">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48" title="Flutter">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="48" title="Flask"> 
 </div>
 
-  
-  
-  
 
+  
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+  </a>
+</div>
   
 
 
