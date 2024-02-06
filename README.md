@@ -50,7 +50,7 @@
 <div align="left">
  
   🎮 `Games` • 🎲 `MOBA` • 📽️ `Cinema` • 📚 `Learning` \
-  &#8199;&#8199;&#8199; 🏊  `Swimming` • 🎧 `Music` • 🍜 `Anime` 🌐 • `Languages`
+  &#8199;&#8199;&#8199; 🏊  `Swimming` • 🎧 `Music` • 🍜 `Anime` • 🌐 `Languages`
 
 </div>
 
