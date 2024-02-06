@@ -11,7 +11,7 @@
 </div>
 
 
-### <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Heya folks, i'm Júlio!
+### <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="WavingHand-gif" /></a> Heya folks, I'm Peyman!
 
 <div align="left">
  
@@ -66,9 +66,8 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
 ### <a href="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif"><img align="center" src="https://media.giphy.com/media/iItk7D6h2NLoznuU89/giphy.gif" width="32" alt="SpeechBubble-gif"/></a> Socials & Contacts:
 
 <div align="left">
-  <a href="https://linktr.ee/juletopi"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree"></a>&nbsp;&nbsp;&nbsp;
   <a href="www.linkedin.com/in/peymansf2000"><img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn-icon" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Spotify-icon.png" height="32" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" height="32" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/juletopi/"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100006955867774"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:juliocezarpvh@hotmail.com"><img src="https://github.com/juletopi/juletopi/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;&nbsp;
@@ -82,11 +81,11 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
 
 ### <a href="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif"><img align="center" src="https://media.giphy.com/media/hpG65zKw0mmRrwOFRD/giphy.gif" width="37" alt="ListeningToMusic-gif"/></a> Listening now in Spotify:
 
-[![Peyman's Spotify Playing](https://spotify-readme-7k7v.vercel.app/api/spotify/?background_color=3072db&border_color=3072db)](https://open.spotify.com/user/22kegf7wtfidrsyua3mrnbbaa)
+[![Peyman's Spotify Playing](https://novatorem-five-steel-89.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/7qje4cjhxymamlcmxzo749qvo)
 
 <div align="center">
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api>
   </a>
 </div>
 
