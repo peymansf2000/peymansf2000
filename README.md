@@ -1,12 +1,12 @@
 <div align="center">
   <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3072db&height=120&section=header"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=header"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=3072db&center=true&vCenter=true&width=700&height=100&lines=Heya+folks%2C+I'm+Peyman!;I'm+23+years+old.;I'm+from+Isfahan%2C+Iran.;Aiming+to+start+as+a+Programmer!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=fa3e3e&center=true&vCenter=true&width=700&height=100&lines=Heya+folks%2C+I'm+Peyman!;I'm+23+years+old.;I'm+from+Isfahan%2C+Iran.;Aiming+to+start+as+a+Programmer!" alt="Typing_SVG" title="Welcome, welcome! :)"/>
   </a>
 </div>
 
@@ -157,8 +157,8 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
 <!-- STATS -->
 
 <div align="center">
-  <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juletopi&bg_color=0e1118&hide_border=true&custom_title=Juletopi's%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="JuletopiContribution-graph" title="Juletopi's Contribution Graph">
+  <a href="https://github.com/peymansf2000/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peymansf2000&bg_color=0e1118&hide_border=true&custom_title=Peyman's%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="PeymanContribution-graph" title="Peyman's Contribution Graph">
   </a>
 </div>
 
@@ -169,11 +169,11 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
 </div>
 
 <div align="center">
-  <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Juletopi-stats" title="Juletopi's GitHub Stats">
+  <a href="https://github.com/peymansf2000/">
+    <img src="https://github-readme-stats.vercel.app/api?username=peymansf2000&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Juletopi-stats" title="Peyman's GitHub Stats">
   </a>
-  <a href="https://github.com/juletopi/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juletopi&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Juletopi's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="JuletopiTopLangs-stats" title="Juletopi's Coding Language Stats">
+  <a href="https://github.com/peymansf2000/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peymansf2000&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Peyman's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="PeymaniTopLangs-stats" title="Juletopi's Coding Language Stats">
   </a>
 </div>
 
@@ -184,8 +184,8 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
 </div>
 
 <div align="center">
-  <a href="https://github.com/juletopi/">
-    <img src="https://streak-stats.demolab.com/?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="JuletopiStreak-stats" title="Juletopi's Streak Stats">
+  <a href="https://github.com/peymansf2000/">
+    <img src="https://streak-stats.demolab.com/?user=peymansf2000&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="JuletopiStreak-stats" title="Juletopi's Streak Stats">
   </a>
 </div>
 
@@ -203,7 +203,7 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
     <a href="#">
-      <img align="center" src="https://profile-counter.glitch.me/{juletopi}/count.svg" alt="VisitorsCount-SVG" title="Juletopi's Profile Visitors Counter"/>
+      <img align="center" src="https://profile-counter.glitch.me/{peymansf2000}/count.svg" alt="VisitorsCount-SVG" title="Peyman's Profile Visitors Counter"/>
     </a>
   </p> 
 </div>
@@ -212,7 +212,7 @@ I'm a 20-year-old enthusiast currently diving deep into the world of app develop
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=fa3e3e&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
   </a>
 </div>
 
