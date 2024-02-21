@@ -139,7 +139,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48" title="Dart">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48" title="Flutter">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="48" title="Flask"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48" title="Django"> 
 </div>
 
 
