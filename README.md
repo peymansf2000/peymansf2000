@@ -65,9 +65,8 @@
 <div align="left">
 
   - **Algorithms & Programming Logic**
-  - **Visual Programming Language**
-  - **Human-Computer Interaction**
-  - **Databases**
+  - **Clean Code & Clean Architecture**
+  - **Design Patterns**
 
 </div>
 
